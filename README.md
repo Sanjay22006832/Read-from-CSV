@@ -26,7 +26,8 @@ print("no of rows",len(df.axes[0]))
 print("no. of columns",len(df.axes[1]))
 ```
 ## OUTPUT:
-![Screenshot 2023-06-12 051039](https://github.com/Sanjay22006832/Read-from-CSV/assets/119830477/33c03318-d857-4efb-abfc-0693eb556f6c)
+![Screenshot 2023-06-12 051159](https://github.com/Sanjay22006832/Read-from-CSV/assets/119830477/0e6a6606-ae36-4bc2-96e2-850ac34f8003)
+
 
 
 ## RESULT:
